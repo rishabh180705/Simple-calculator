@@ -8,7 +8,7 @@ The interface of my calculator looks like this:
 
 
 link to my project:
-https://sadhanasharma1.github.io/Simple-calculator/
+ https://rishabh180705.github.io/Simple-calculator/
 
 
 
